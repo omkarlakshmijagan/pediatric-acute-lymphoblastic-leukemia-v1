@@ -6,3 +6,4 @@ Symptoms can include:Pale skin, Feeling tired, weak, or cold Dizziness, Headache
 Treatment typically lasts about 2 to 3 years, with the most intense treatment in the first few months. The type and dose of drugs given depends on the child's risk group. 
 ALL has one of the highest cure rates of all childhood cancers, with about 85% of newly diagnosed patients becoming event-free survivors.
 In this research work the python code is developed for the following methods: EfficientNetv2B0 with Relu, Efficentnetv2B0 with leaky Relu, Efficentnetv2B3 with leaky Relu, EffNetV2B3 with Parametric Relu, LeNet, AlexNet, ResNet and CNN
+This research work is carried out for the dataset form the given drive link: https://drive.google.com/drive/folders/1153doaNt4R_rWWlozmPhtG2HCAmxIjry?usp=drive_link 
